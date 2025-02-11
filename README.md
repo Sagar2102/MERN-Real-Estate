@@ -40,7 +40,6 @@ Make sure you have the following installed:
 
 ## Screenshots📸
 
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/fed29361-1ba2-4eef-8437-00735746fab6)
 
 ![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/df1124b5-2e20-4e7f-ab42-7c17710d5a36)
 
