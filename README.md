@@ -30,6 +30,34 @@ This real estate app provides an efficient platform for users to explore and man
 - **Authentication**: JWT (JSON Web Tokens)
 - **Styling**: CSS, Material-UI
 
+## Screenshots
+- **Home Page**
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577922/samples/Screenshot_2025-02-26_191805_dmhgtl.png)
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577922/samples/Screenshot_2025-02-26_191820_fmfjj0.png)
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577931/samples/Screenshot_2025-02-26_191838_at6e7l.png)
+
+<br>
+
+- **Property Details**
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577937/samples/Screenshot_2025-02-26_191907_vf8omn.png)
+
+<br>
+
+- **Profile**
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577924/samples/Screenshot_2025-02-26_191924_lg9dn7.png)
+
+<br>
+
+- **Create Property Listing**
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577924/samples/Screenshot_2025-02-26_191924_lg9dn7.png)
+
+<br>
+
+- **Search Property**
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577937/samples/Screenshot_2025-02-26_192005_xucdyc.png)
+
+<br>
+
 ## 📋 Prerequisites
 
 Make sure you have the following installed:
