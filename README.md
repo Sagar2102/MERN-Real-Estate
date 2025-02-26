@@ -49,7 +49,7 @@ This real estate app provides an efficient platform for users to explore and man
 <br>
 
 - **Create Property Listing**
-![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577924/samples/Screenshot_2025-02-26_191924_lg9dn7.png)
+![](https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577924/samples/Screenshot_2025-02-26_191943_bmyuz3.png)
 
 <br>
 
